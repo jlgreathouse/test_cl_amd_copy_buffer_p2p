@@ -1,4 +1,4 @@
-=== Test Application for clEnqueueCopyBufferP2PAMD ===
+### Test Application for clEnqueueCopyBufferP2PAMD
 
 Sample code to demonstrate the function `clEnqueueCopyBufferP2PAMD()`, which is
 enabled by the `cl_amd_copy_buffer_p2p` extension in the AMD OpenCL runtime.
